@@ -24,7 +24,7 @@ The launcher points towards default install paths for all 3 game launchers.
 
 - If Default launchers ( Steam, Epic Games & EA ) arent located grey out option with a "Find Launcher" Button
 
-
+- UI redesign ( will be done towards the end after all fundamentals are completed)
 
 ## Screenshots
 
